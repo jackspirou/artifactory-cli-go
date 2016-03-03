@@ -3,7 +3,7 @@
         "name": "artifactory-cli-linux-386",
         "repo": "artifactory-cli-go",
         "licenses": ["Apache-2.0"],
-        "vcs_url": "https://github.com/JFrogDev/artifactory-cli-go.git",
+        "vcs_url": "https://github.com/jackspirou/artifactory-cli-go.git",
         "subject": "jfrog"
     },
     "version": {

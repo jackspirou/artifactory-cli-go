@@ -5,7 +5,7 @@ import (
     "testing"
     "reflect"
     "encoding/json"
-    "github.com/JFrogDev/artifactory-cli-go/utils"
+    "github.com/jackspirou/artifactory-cli-go/utils"
 )
 
 func TestConfig(t *testing.T){

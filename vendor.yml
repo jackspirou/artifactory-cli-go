@@ -1,0 +1,7 @@
+vendors:
+- path: github.com/codegangsta/cli
+  rev: a2943485b110df8842045ae0600047f88a3a56a1
+- path: github.com/jackspirou/syscerts
+  rev: 4d4e345e985715381fbc9d324131321b04f959d6
+- path: golang.org/x/crypto
+  rev: 5dc8cb4b8a8eb076cbb5a06bc3b8682c15bdbbd3

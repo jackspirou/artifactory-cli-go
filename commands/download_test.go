@@ -2,7 +2,7 @@ package commands
 
 import (
     "testing"
-    "github.com/JFrogDev/artifactory-cli-go/tests"
+    "github.com/jackspirou/artifactory-cli-go/tests"
 )
 
 func TestRecursiveDownload(t *testing.T) {
